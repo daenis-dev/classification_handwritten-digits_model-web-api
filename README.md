@@ -6,7 +6,6 @@
 
 - Web service that identifies digits captured within images
 - Intended for use with the Classification UI and the Classification API
-- Developed using the code from chapter four of the book Hands-On Machine Learning with Scikit-Learn & TensorFlow by Aurélien Géron
 
 
 
